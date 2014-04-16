@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface SBEViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIView *view5;
 
 @end
